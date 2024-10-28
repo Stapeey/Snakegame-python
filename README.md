@@ -1,3 +1,5 @@
+have python and pygame installed( pip install pygame)
+
 move with WASD
 press r to restart
 press f to toggle walls on the map
